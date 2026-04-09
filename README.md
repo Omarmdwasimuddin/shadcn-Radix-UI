@@ -59,6 +59,8 @@ export default function Page() {
 npx shadcn@latest add dialog form label select
 ```
 
+#### components/add-task-dialog.tsx
+
 ```bash
 "use client"
 import { useState } from "react"
@@ -140,6 +142,8 @@ npx shadcn@latest add dropdown-menu checkbox
 ```
 
 ##### প্রতিটা task card এ 3-dot menu:
+
+#### components/task-card.tsx
 
 ```bash
 "use client"
@@ -249,6 +253,8 @@ export default function Page() {
 ```bash
 npx shadcn@latest add tabs sonner
 ```
+
+#### app/page.tsx
 
 ```bash
 "use client"
