@@ -14,7 +14,7 @@ npx shadcn@latest init
 
 ![](/public/Img/setupshadcn.png)
 
-##### Basic components (task list UI)
+##### Topic-01: Basic components (task list UI)
 
 ```bash
 npx shadcn@latest add button input card badge
@@ -53,7 +53,7 @@ export default function Page() {
 
 ---
 
-##### Dialog + Form (task add করা)
+##### Topic-02: Dialog + Form (task add করা)
 
 ```bash
 npx shadcn@latest add dialog form label select
@@ -135,7 +135,7 @@ export default function Page() {
 
 ---
 
-##### Dropdown + Checkbox
+##### Topic-03: Dropdown + Checkbox
 
 ```bash
 npx shadcn@latest add dropdown-menu checkbox
@@ -248,7 +248,7 @@ export default function Page() {
 
 ---
 
-##### Tabs + Toast
+##### Topic-04: Tabs + Toast
 
 ```bash
 npx shadcn@latest add tabs sonner
@@ -371,7 +371,7 @@ export default function Page() {
 }
 ```
 
-##### Menubar (Navbar style menu) — shadcn + Radix
+##### Topic-05: Menubar (Navbar style menu) — shadcn + Radix
 
 ```bash
 npx shadcn@latest add menubar
