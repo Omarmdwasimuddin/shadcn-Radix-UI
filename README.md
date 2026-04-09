@@ -94,6 +94,8 @@ export function AddTaskDialog({ onAdd }) {
 
 ##### এখানে শিখবে: DialogTrigger asChild কী করে — Radix এর asChild pattern টা অনেক important, এটা trigger element কে replace করে দেয়।
 
+---
+
 ##### Dropdown + Checkbox
 
 ```bash
@@ -131,6 +133,8 @@ function TaskCard({ task, onComplete, onDelete }) {
   )
 }
 ```
+
+---
 
 ##### Tabs + Toast
 
